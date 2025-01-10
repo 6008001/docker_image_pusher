@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 tdengine/tdengine:3.3.3.0
+tdengine/tdengine:3.3.5.0
+
