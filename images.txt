@@ -9,3 +9,4 @@ tdengine/tdengine:3.3.3.0
 tdengine/tdengine:3.3.5.0
 jumpserver/jms_all:latest
 mysql:5.7.44
+jgraph/drawio:latest
