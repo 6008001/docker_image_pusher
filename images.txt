@@ -16,4 +16,4 @@ influxdb:1.11.8
 --platform=linux/arm64 tdengine/tdengine:3.3.5.0
 --platform=linux/arm64 tarscloud/framework:v3.0.19
 --platform=linux/arm64 tarscloud/tars-node:stable
---platform=linux/arm64 nginx:1.27.4
+--platform=linux/arm64 nginx:1.28.0
