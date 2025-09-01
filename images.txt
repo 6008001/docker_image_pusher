@@ -24,3 +24,6 @@ influxdb:1.11.8
 --platform=linux/amd64 tarscloud/framework:v3.0.19
 --platform=linux/amd64 tarscloud/tars-node:stable
 --platform=linux/amd64 nginx:1.28.0
+
+
+--platform=linux/amd64 dockurr/windows
