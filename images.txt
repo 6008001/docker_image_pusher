@@ -26,4 +26,5 @@ influxdb:1.11.8
 --platform=linux/amd64 nginx:1.28.0
 
 
---platform=linux/amd64 dockurr/windows
+--platform=linux/amd64 dockurr/windows:4.35
+
