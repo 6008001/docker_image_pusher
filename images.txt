@@ -18,7 +18,7 @@ influxdb:1.11.8
 --platform=linux/arm64 tarscloud/tars-node:stable
 --platform=linux/arm64 nginx:1.28.0
 --platform=linux/arm64 dockurr/windows:5.01
-
+--platform=linux/arm64 ubuntu:20.04
 
 --platform=linux/amd64 mysql:8.0.42
 --platform=linux/amd64 tdengine/tdengine:3.3.5.0
@@ -26,4 +26,4 @@ influxdb:1.11.8
 --platform=linux/amd64 tarscloud/tars-node:stable
 --platform=linux/amd64 nginx:1.28.0
 --platform=linux/amd64 dockurr/windows:5.01
-
+--platform=linux/amd64 ubuntu:20.04
