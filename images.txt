@@ -22,6 +22,8 @@ influxdb:1.11.8
 --platform=linux/arm64 ubuntu:22.04
 --platform=linux/arm64 postgres:15.10
 --platform=linux/arm64 tdengine/tsdb:3.3.8.4
+--platform=linux/arm64 openresty/openresty:1.27.1.2-0-focal
+
 
 --platform=linux/amd64 mysql:8.0.42
 --platform=linux/amd64 tdengine/tdengine:3.3.5.0
@@ -33,3 +35,4 @@ influxdb:1.11.8
 --platform=linux/amd64 ubuntu:22.04
 --platform=linux/amd64 postgres:15.10
 --platform=linux/amd64 tdengine/tsdb:3.3.8.4
+--platform=linux/amd64 openresty/openresty:1.27.1.2-0-focal
