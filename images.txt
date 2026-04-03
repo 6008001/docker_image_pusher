@@ -25,6 +25,8 @@ influxdb:1.11.8
 --platform=linux/arm64 openresty/openresty:1.27.1.2-0-focal
 --platform=linux/arm64 influxdb:2.4
 --platform=linux/arm64 qiuchenjun/hgdb-see:4.5.10.3
+--platform=linux/arm64 debian:11
+--platform=linux/arm64 almalinux:8
 
 --platform=linux/amd64 mysql:8.0.42
 --platform=linux/amd64 tdengine/tdengine:3.3.5.0
@@ -40,3 +42,5 @@ influxdb:1.11.8
 --platform=linux/amd64 influxdb:2.4
 --platform=linux/amd64 qiuchenjun/hgdb-see:4.5.10.3
 --platform=linux/amd64 freeradius/freeradius-server:3.2.8
+--platform=linux/amd64 debian:11
+--platform=linux/amd64 almalinux:8
